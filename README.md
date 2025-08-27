@@ -10,7 +10,7 @@ ABOUT-ME
 - 🌱 Learning: Cloud-native development & AI integrations  
 - 🎯 Goal: Deliver impactful, user-centric software  
 - 💬 Ask me about: Full-stack development, UI/UX best practices, and system design  
-- 📫 Reach me: incognitohacker415@gmail.com.com@gmail.com
+- 📫 Reach me: incognitohacker415@gmail.ocm
 
 ---
 
